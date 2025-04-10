@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi there! I'm Precious
+I'm a passionate Data Analyst and aspiring Web Developer, with a strong background in Business Management and a love for turning data into meaningful insights. Whether it's analyzing trends, building dashboards, or developing data-powered web tools, I enjoy creating solutions that drive decisions and impact.
 
-<!--
-**Presitge/Presitge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tools
+Data Analysis: SQL, Python (Pandas, NumPy), R
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Other Tools: Excel, Microsoft 365, Git, Jupyter Notebook.
+Soft Skills: Communication, problem-solving, teamwork, leadership
 
-Here are some ideas to get you started:
+🌟 Projects I'm Proud Of
+📊 Social Media Campaign Impact Analysis
+Analyzed the performance of a brand’s Instagram and Twitter campaigns to understand audience behavior and optimize engagement.
+Tools: Python, Power BI
+Outcome: Improved campaign strategy with data-driven insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 EdTech Scholarship Data Review
+Collaborated on a Tech Scholarship program analysis at Elenasy, turning survey responses into actionable insights.
+Tools: SQL, Excel
+Outcome: Helped improve application filtering and course packaging
+
+🧪 Graduate Student Project Survey
+Structured and analyzed over 300 student feedback forms to support final year project development.
+Tools: R, Excel
+Outcome: Supported curriculum improvement and research direction
